@@ -71,7 +71,7 @@ public class VectorE<E> implements VectorList{
 
             // Last i elements are already in place
             for (int j = 0; j < n - i - 1; j++){
-                if (util.Utility.compare(data[j],data[j + 1] )) {
+                if (util.Utility.compare(data[j],data[j + 1] )) {// problema de tipo
                     E temp = data[j];
                     data[j]=data[j+1];
                     data[j+1]=temp;
