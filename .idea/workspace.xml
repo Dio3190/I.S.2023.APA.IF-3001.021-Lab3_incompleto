@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0fc2801d-6ee8-42ba-9f2a-71fec9b968d2" name="Changes" comment="">
+    <list default="true" id="0fc2801d-6ee8-42ba-9f2a-71fec9b968d2" name="Changes" comment="code group 3 incomplete">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,8 +89,16 @@
       <option name="presentableId" value="Default" />
       <updated>1680131042989</updated>
       <workItem from="1680133888612" duration="12470000" />
-      <workItem from="1680224651209" duration="470000" />
+      <workItem from="1680224651209" duration="973000" />
     </task>
+    <task id="LOCAL-00001" summary="code group 3 incomplete">
+      <created>1680225197277</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680225197277</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,5 +114,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="code group 3 incomplete" />
+    <option name="LAST_COMMIT_MESSAGE" value="code group 3 incomplete" />
   </component>
 </project>
